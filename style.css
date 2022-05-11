@@ -1,12 +1,13 @@
 *{
     font-family: sans-serif;
+    font-size: 25px;
     padding: 0px;
 }
 /*Header*/
 header{
     background-color: #00ACEE;
     background-image:  url(./img/pattern.png);
-    background-size: auto 15rem;
+    background-size: auto 10rem;
     height: 120px;
 }
 header > img{
@@ -25,7 +26,25 @@ section > img{
     height: 450px;
     padding: 15px;
 }
-
+/*Yellow*/
 .marker{
     background: yellow;
+}
+/*Photo*/
+.Mark{
+    background-size: cover;
+        background-image: url(./img/marck-zuck.jpg);
+        width: 450px;
+        height: 300px;
+        color: white;
+}
+.Padel{
+    background-size: cover;
+        background-image: url(./img/padel-player.jpg);
+        width: 450px;
+        height: 300px;
+        color: white;
+}
+div > p{
+    font-size: 45px;
 }
