@@ -48,3 +48,7 @@ section > img{
 div > p{
     font-size: 45px;
 }
+/*Padding list*/
+ul{
+    padding-left: 50px;
+}
