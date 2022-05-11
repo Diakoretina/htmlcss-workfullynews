@@ -1,0 +1,20 @@
+*{
+    font-family: sans-serif;
+}
+/*Header*/
+header{
+    background-color: #00ACEE;
+    background-image:  url(./img/pattern.png);
+    background-size: auto 15rem;
+    height: 120px;
+}
+header > img{
+    width: 160px;
+    height: 40px;
+    padding-top: 75px;
+    padding-left: 15px;
+}
+/*Color*/
+.color{
+    color: #00a2ff;
+}
